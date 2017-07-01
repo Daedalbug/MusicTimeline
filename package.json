@@ -1,0 +1,24 @@
+{
+  "name": "musictimeline",
+  "version": "1.0.0",
+  "description": "A music visualisation website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daedalbug/MusicTimeline.git"
+  },
+  "keywords": [
+    "music",
+    "graph",
+    "recording"
+  ],
+  "author": "Daedalbug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daedalbug/MusicTimeline/issues"
+  },
+  "homepage": "https://github.com/Daedalbug/MusicTimeline#readme"
+}
